@@ -40,7 +40,7 @@ prim-fair/
 ```
 ## Quickstart
 
-    git clone https://github.com/your-org/prim-fair.git
+    git clone https://github.com/paper_under_review/prim-fair.git
     cd prim-fair
     pip install -r requirements.txt
     python experiments/run_compas.py        # single dataset
