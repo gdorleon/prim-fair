@@ -1,0 +1,5 @@
+Model,#Features,Xscore,OA
+Unconstrained Logistic,9,100,68
+PRIM Linear,5,100,63
+PRIM Neural (attention),4,75,64
+PRIM MoE,6,85,65

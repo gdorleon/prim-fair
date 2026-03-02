@@ -1,0 +1,5 @@
+Method,AUC (%),Dem. Parity Gap
+ERM (No DP),90,0.1
+ERM (ε=1 DP),82,0.15
+PRIM (No DP),89,0.03
+PRIM (ε=1 DP),85,0.05
