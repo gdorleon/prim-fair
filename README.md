@@ -12,7 +12,7 @@ PRIM is a unified machine-learning framework that simultaneously optimises for:
 - **Interpretability**: ℓ₁ sparsity regulariser + feature-attention neural nets
 
 ## Repository Structure
-
+```
 prim-fair/
 ├── src/
 │   ├── models.py          # Linear, neural, mixture-of-experts models
@@ -37,7 +37,7 @@ prim-fair/
 ├── results/
 ├── requirements.txt
 └── README.md
-
+```
 ## Quickstart
 
     git clone https://github.com/your-org/prim-fair.git
