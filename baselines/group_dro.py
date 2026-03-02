@@ -6,8 +6,7 @@ This is equivalent to:
   - Diana et al., "Minimax Group Fairness", AISTATS 2021
   - Sagawa et al., "Distributionally Robust Neural Networks for Group Shifts", ICLR 2020
 
-The Group DRO baseline in the paper (Table I) — same objective as PRIM but without
-privacy or adversarial training components.
+
 """
 
 import numpy as np
