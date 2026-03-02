@@ -1,7 +1,7 @@
 """
 prim.py — Core PRIM Algorithm
 
-Implements Algorithm 1 from the paper: Private, Robust, Interpretable Minimax Fairness.
+Algorithm 1: Private, Robust, Interpretable Minimax Fairness.
 
 The algorithm frames learning as a two-player zero-sum game:
   - Player 1 (Learner): Minimizes the group-weighted robust loss + interpretability penalty
