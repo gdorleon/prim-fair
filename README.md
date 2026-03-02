@@ -1,6 +1,6 @@
 # PRIM-Fair: Private, Robust, Interpretable Minimax Error Fairness
 
-Full reproduction of the PRIM algorithm from the paper
+PRIM Experiment
 "PRIM-Fair – Private, Robust, Interpretable Minimax Error Fairness"
 
 ## Overview
