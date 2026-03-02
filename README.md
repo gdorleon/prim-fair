@@ -16,8 +16,8 @@ PRIM is a unified machine-learning framework that simultaneously optimises for:
 prim-fair/
 ├── src/
 │   ├── models.py          # Linear, neural, mixture-of-experts models
-│   ├── prim.py            # Core PRIM algorithm (Algorithm 1 in paper)
-│   ├── dp_utils.py        # Differential-privacy helpers (DP-SGD, accounting)
+│   ├── prim.py            # Core PRIM algorithm (Algorithm 1
+│   ├── dp_utils.py        # Differential-privacy helpers (DP-SGD,)
 │   ├── robustness.py      # PGD adversarial attack & robust loss
 │   ├── datasets.py        # Loaders for all 5 benchmark datasets
 │   ├── metrics.py         # Fairness & accuracy metrics
