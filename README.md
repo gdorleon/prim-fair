@@ -1,7 +1,7 @@
-# PRIM-Fair: Private, Robust, Interpretable Minimax Error Fairness
+# PRIM-Fair: Private, Robust, Interpretable Minimax Fairness
 
 PRIM Experiment
-"PRIM-Fair – Private, Robust, Interpretable Minimax Error Fairness"
+"PRIM-Fair – Private, Robust, Interpretable Minimax Fairness"
 
 ## Overview
 
